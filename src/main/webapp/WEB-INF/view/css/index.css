@@ -1,0 +1,70 @@
+body {
+    width:100%;
+    height:auto;
+}
+
+nav .navbar-header{
+    padding:10px;
+}
+.navbar-header .heading {
+    color:black;
+    font-size: x-large;
+    font-weight: bold;
+    margin:30px;
+}
+
+.navbar-right {
+    margin:0px;
+    margin-right:40px;
+    margin-left:40px;
+}
+
+.navbar .navbar-right li a {
+    color:black;
+    font-size: medium;
+}
+
+.navbar .navbar-right li a:hover {
+    color:black;
+}
+
+.navbar .navbar-right li a.active {
+    margin: 10px 10px;
+    padding:4px;
+    border:none;
+    border-bottom:5px solid black;
+}
+
+main {
+    margin-top: 100px;
+}
+
+main h2 {
+    color: black;
+}
+
+main form div {
+    margin:20px 0px;
+}
+
+button {
+    width:100px;
+    background-color: black;
+    color: white;
+}
+
+.row{
+    background-color: lightcyan;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 15px;
+}
+#create
+{
+    background-color:white;
+    border: none;
+}
