@@ -16,7 +16,7 @@
             <div class="collapse navbar-collapse" id="navbar-collapse-main">
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="index">Home</a></li>
-                    <li><a href="addPost">Create Post</a></li>
+                    <li><a href="addPost">Add Post</a></li>
                 </ul>
             </div>
         </div>

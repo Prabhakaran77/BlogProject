@@ -6,11 +6,101 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5ea2a77-a90c-4e81-af3f-a8dd1e01c6ee" name="Default Changelist" comment="" />
+    <list default="true" id="b5ea2a77-a90c-4e81-af3f-a8dd1e01c6ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BlogProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BlogProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/config/ConfigurationClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/config/HibernateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/config/WebInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/controller/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/dao/Operations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/dao/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/blog/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/blog/dao/operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/content.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/content.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/config/ConfigurationClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/config/HibernateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/config/WebInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/dao/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/dao/Posts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/com/blog/dao/operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/byte-buddy-1.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/hibernate-core-5.4.9.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jandex-2.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/postgresql-42.2.8.jre6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-aop-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-beans-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-context-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-core-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-expression-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-jcl-5.2.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-web-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/addMessage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/content.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/del.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/js/blog.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/js/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/js/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/js/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/js/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/site-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/view/updateMessage.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Blog-App/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/config/ConfigurationClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/config/HibernateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/config/WebInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/controller/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/dao/Operations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/dao/Posts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/blog/dao/operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +111,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -37,22 +130,28 @@
     </option>
   </component>
   <component name="ProjectId" id="1VKWwSnvvl9TVpcbBQoTj4JBqfv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spring-webmvc-hibernate-and-mysql-crud-operations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogopening" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\BlogProject\src\main\java\com\blog\config" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\IdeaProjects\Blog-App\src\main\resources" />
       <recent name="F:\IdeaProjects\Blog-App\src\main\webapp\WEB-INF\view" />
@@ -150,7 +249,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -171,7 +270,8 @@
       <updated>1577002505021</updated>
       <workItem from="1577002510003" duration="3093000" />
       <workItem from="1577014725814" duration="14308000" />
-      <workItem from="1577075548850" duration="49271000" />
+      <workItem from="1577075548850" duration="56119000" />
+      <workItem from="1577207668022" duration="34793000" />
     </task>
     <servers />
   </component>
@@ -183,109 +283,122 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577102550064" />
-    <state x="198" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577076595908">
+    <state x="198" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577266176513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="198" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577076595908" />
+    <state x="198" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577266176513" />
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577002899641" />
     <state x="418" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577087931955">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="418" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577087931955" />
-    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1577101796424">
+    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser" timestamp="1577253663084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577101796424" />
+    <state x="510" y="107" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577253663084" />
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577015604889" />
     <state x="360" y="73" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1577002872246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="360" y="73" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1536.824@0.0.1536.824" timestamp="1577002872246" />
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577262273925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="113" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1577262273925" />
     <state x="460" y="82" key="DetectedRootsChooserDialog" timestamp="1577075953805">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="460" y="82" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577075953805" />
-    <state x="488" y="150" key="FileChooserDialogImpl" timestamp="1577104474896">
+    <state x="488" y="150" key="FileChooserDialogImpl" timestamp="1577296335858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="150" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577104474896" />
+    <state x="488" y="150" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577296335858" />
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577015405039" />
-    <state width="1048" height="167" key="GridCell.Tab.0.bottom" timestamp="1577174994330">
+    <state width="1048" height="120" key="GridCell.Tab.0.bottom" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577174994330" />
+    <state width="1048" height="120" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.0.center" timestamp="1577174994330">
+    <state width="1048" height="120" key="GridCell.Tab.0.center" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577174994330" />
+    <state width="1048" height="120" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.0.left" timestamp="1577174994317">
+    <state width="1048" height="120" key="GridCell.Tab.0.left" timestamp="1577350270844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577174994317" />
+    <state width="1048" height="120" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577350270844" />
     <state width="1186" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.0.right" timestamp="1577174994330">
+    <state width="1048" height="120" key="GridCell.Tab.0.right" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577174994330" />
+    <state width="1048" height="120" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.1.bottom" timestamp="1577174994350">
+    <state width="1048" height="120" key="GridCell.Tab.1.bottom" timestamp="1577350270846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577174994350" />
+    <state width="1048" height="120" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577350270846" />
     <state width="1186" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.1.center" timestamp="1577174994350">
+    <state width="1048" height="120" key="GridCell.Tab.1.center" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577174994350" />
+    <state width="1048" height="120" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.1.left" timestamp="1577174994350">
+    <state width="1048" height="120" key="GridCell.Tab.1.left" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577174994350" />
+    <state width="1048" height="120" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.1.right" timestamp="1577174994350">
+    <state width="1048" height="120" key="GridCell.Tab.1.right" timestamp="1577350270845">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577174994350" />
+    <state width="1048" height="120" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577350270845" />
     <state width="1186" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.2.bottom" timestamp="1577174994351">
+    <state width="1048" height="120" key="GridCell.Tab.2.bottom" timestamp="1577350270846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577174994351" />
+    <state width="1048" height="120" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577350270846" />
     <state width="1186" height="210" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577046708010" />
-    <state width="1048" height="167" key="GridCell.Tab.2.center" timestamp="1577174994351">
+    <state width="1048" height="120" key="GridCell.Tab.2.center" timestamp="1577350270846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1577174994351" />
+    <state width="1048" height="120" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1577350270846" />
     <state width="1186" height="210" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1577046708010" />
-    <state width="1048" height="167" key="GridCell.Tab.2.left" timestamp="1577174994350">
+    <state width="1048" height="120" key="GridCell.Tab.2.left" timestamp="1577350270846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1577174994350" />
+    <state width="1048" height="120" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1577350270846" />
     <state width="1186" height="210" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1577046708009" />
-    <state width="1048" height="167" key="GridCell.Tab.2.right" timestamp="1577174994351">
+    <state width="1048" height="120" key="GridCell.Tab.2.right" timestamp="1577350270846">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1048" height="167" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577174994351" />
+    <state width="1048" height="120" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1577350270846" />
     <state width="1186" height="210" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1577046708010" />
-    <state x="272" y="30" key="Maven.ArtifactSearchDialog" timestamp="1577102120752">
+    <state x="272" y="30" key="Maven.ArtifactSearchDialog" timestamp="1577270341479">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="272" y="30" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577102120752" />
+    <state x="272" y="30" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1577270341479" />
     <state x="306" y="34" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1577043185499" />
     <state x="186" y="0" key="SettingsEditor" timestamp="1577102523341">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577102523341" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577014829039">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="424" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1577207703810">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="424" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577207703810" />
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577014829039" />
+    <state x="65" y="68" key="new project wizard" timestamp="1577348899338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577348899338" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1577039622541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577039622541" />
+    <state x="363" y="55" key="spring file set editor" timestamp="1577269856530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="55" key="spring file set editor/0.0.1366.728@0.0.1366.728" timestamp="1577269856530" />
   </component>
 </project>

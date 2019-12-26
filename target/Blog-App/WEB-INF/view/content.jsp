@@ -15,7 +15,7 @@
 <body>
 
 <header>
-    <jsp:include page="js/header.jsp" />
+<%--    <jsp:include page="js/header.jsp" />--%>
 </header>
 <jsp:include page="js/blog.jsp" />
 <main>
